@@ -15,9 +15,9 @@ Guru Nanak Dev Engineering College, Ludhiana
 
 <p align="center">
 
-**[📚 Contents](Contents/Contents.md)** •
-**[📂 Resources](Contents/Resources.md)** •
-**[📞 Contact](Contents/Contact.md)**
+**[📚 Contents](Contents/Contents.html)** •
+**[📂 Resources](Contents/Resources.html)** •
+**[📞 Contact](Contents/Contact.html)**
 
 </p>
 
