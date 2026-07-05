@@ -1,90 +1,117 @@
-<div align="center">
+<p align="center">
+<h1 align="center">Microsoft Excel for Civil Engineering Applications</h1>
 
-# 📊 Microsoft Excel for Civil Engineering Applications
+<p align="center">
+<b>Four-Day Hands-on Training Programme</b><br>
+Department of Civil Engineering<br>
+Guru Nanak Dev Engineering College, Ludhiana
+</p>
 
-## Four-Day Hands-on Training Programme
+<p align="center">
+<img src="https://img.shields.io/badge/Duration-4%20Days-success?style=flat-square">
+<img src="https://img.shields.io/badge/Training-16%20Hours-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Mode-Hands--on-orange?style=flat-square">
+<img src="https://img.shields.io/badge/Software-Microsoft%20Excel-217346?style=flat-square">
+</p>
 
-**Department of Civil Engineering**  
-**Guru Nanak Dev Engineering College, Ludhiana**
+<p align="center">
 
----
+<a href="Contents/Contents.md"><b>Contents</b></a> •
+<a href="Contents/Resources.md"><b>Resources</b></a> •
+<a href="Contents/Contact.md"><b>Contact</b></a>
 
-### Learn • Calculate • Analyse • Visualize • Report
-
-</div>
-
----
-
-## 📚 Navigation
-
-| Contents | Course Schedule | Lecture Notes | Practice Files |
-|:---------:|:--------------:|:-------------:|:--------------:|
-| **[📖 Open](Contents/Contents.md)** | **[📅 Open](Contents/Schedule.md)** | **[📝 Open](Contents/Lectures.md)** | **[💻 Open](Contents/Practice.md)** |
-
-| Assignments | Resources | Contact |
-|:-----------:|:---------:|:------:|
-| **[📋 Open](Contents/Assignments.md)** | **[📂 Open](Contents/Resources.md)** | **[📧 Open](Contents/Contact.md)** |
+</p>
 
 ---
 
-# 📖 About the Training
+## About the Training
 
-This four-day hands-on training programme introduces undergraduate Civil Engineering students to **Microsoft Excel** and its applications in engineering computations, data management, visualization, and professional report preparation.
+The **Microsoft Excel for Civil Engineering Applications** programme is a four-day hands-on training designed for **B.Tech. Civil Engineering students entering the second year**.
 
-The programme emphasizes **learning by doing**, where every concept is reinforced through practical exercises and real-world engineering examples.
-
----
-
-# 🎯 Course Highlights
-
-- ✅ Hands-on practical sessions
-- ✅ Civil Engineering-oriented examples
-- ✅ Formula and function-based calculations
-- ✅ Charts and graphical analysis
-- ✅ Data management techniques
-- ✅ Professional worksheet preparation
-- ✅ Mini project development
-- ✅ Downloadable templates and practice files
+The programme introduces participants to the effective use of Microsoft Excel for engineering computations, data management, graphical visualization, and professional report preparation. Every concept is reinforced through practical exercises and real-world Civil Engineering examples.
 
 ---
 
-# 📅 Programme Details
+## Course Highlights
+
+- Practical, hands-on learning approach
+- Engineering-oriented examples and exercises
+- Formula- and function-based calculations
+- Logical functions and lookup tools
+- Charts and graphical visualization
+- Data analysis using Pivot Tables
+- Professional worksheet and report preparation
+- Mini project based on real-world applications
+
+---
+
+## Programme Details
 
 | Particular | Details |
 |------------|---------|
 | **Course Title** | Microsoft Excel for Civil Engineering Applications |
 | **Duration** | 4 Days |
-| **Training Hours** | 4 Hours per Day (16 Hours Total) |
+| **Training Hours** | 16 Hours (4 Hours/Day) |
 | **Mode** | Hands-on Practical Training |
-| **Target Audience** | B.Tech. Civil Engineering Students (Entering Second Year) |
+| **Target Participants** | B.Tech. Civil Engineering Students (Entering Second Year) |
 
 ---
 
-# 📚 Training Modules
+## Course Modules
 
 | Day | Module | Topics |
-|:---:|--------|--------|
-| **Day 1** | Excel Fundamentals & Basic Calculations | Excel interface, formatting, formulas, functions |
-| **Day 2** | Data Management & Logical Functions | IF, AND, OR, VLOOKUP, XLOOKUP, Data Validation |
-| **Day 3** | Charts, Data Analysis & Report Preparation | Charts, Pivot Tables, Goal Seek, Printing |
-| **Day 4** | Practical Problem Solving | Shopping Bill, Paint Estimation, Mini Project |
+|:---:|---------|--------|
+| **Day 1** | Excel Fundamentals & Basic Calculations | Excel Interface, Formatting, Formulas & Functions |
+| **Day 2** | Data Management & Logical Functions | IF(), AND(), OR(), Lookup Functions, Data Validation |
+| **Day 3** | Charts, Data Analysis & Reporting | Charts, Pivot Tables, Goal Seek, Printing & Reports |
+| **Day 4** | Practical Problem Solving | Shopping Bill, Paint Estimation & Mini Project |
 
 ---
 
-# 🎓 Learning Outcomes
+## Learning Outcomes
 
-After completing this training programme, participants will be able to:
+After successful completion of this programme, participants will be able to:
 
 - Create professional Excel worksheets.
-- Apply formulas and built-in functions.
-- Organize and analyse engineering data.
-- Develop charts and graphical reports.
-- Prepare printable engineering reports.
-- Solve everyday and Civil Engineering problems using Microsoft Excel.
+- Apply formulas and built-in functions confidently.
+- Organize and analyse engineering datasets.
+- Prepare charts and graphical reports.
+- Create printable engineering reports.
+- Solve real-world Civil Engineering problems using Microsoft Excel.
 
 ---
 
-# 👨‍🏫 Course Instructors
+## Quick Links
+
+<a href="Contents/Contents.md">
+<img src="https://img.shields.io/badge/View-Course%20Contents-blue?style=for-the-badge">
+</a>
+
+&nbsp;
+
+<a href="Contents/Templates/Excel_Training_Report_Template.docx">
+<img src="https://img.shields.io/badge/Download-Training%20Report%20Template-green?style=for-the-badge">
+</a>
+
+&nbsp;
+
+<a href="Contents/Templates/Mini_Project_Template.xlsx">
+<img src="https://img.shields.io/badge/Download-Mini%20Project%20Template-orange?style=for-the-badge">
+</a>
+
+&nbsp;
+
+<a href="Contents/Templates/Shopping_Bill_Template.xlsx">
+<img src="https://img.shields.io/badge/Download-Practice%20Templates-purple?style=for-the-badge">
+</a>
+
+</p>
+
+---
+
+## Course Instructors
+
+<p align="center">
 
 **Dr. Yuvraj Singh**  
 Assistant Professor  
@@ -97,22 +124,34 @@ Guru Nanak Dev Engineering College, Ludhiana
 Department of Civil Engineering  
 Guru Nanak Dev Engineering College, Ludhiana
 
----
-
-<div align="center">
-
-## 🚀 Happy Learning!
-
-**"Excel is one of the most powerful tools an engineer can master. Learning it today will save countless hours throughout your academic and professional career."**
-
-<br>
-
-### Department of Civil Engineering
-
-### Guru Nanak Dev Engineering College, Ludhiana
-
-</div>
+</p>
 
 ---
 
-*Disclaimer: The material available in this repository is intended solely for educational purposes. All copyrights belong to their respective owners wherever applicable.*
+## Contact
+
+<p align="center">
+
+Department of Civil Engineering  
+Guru Nanak Dev Engineering College, Ludhiana
+
+</p>
+
+---
+
+<p align="center">
+
+<b>Microsoft Excel is one of the most valuable tools for every Civil Engineer.</b>
+
+<i>Learn today. Apply throughout your academic and professional career.</i>
+
+</p>
+
+---
+
+<p align="center">
+
+© Department of Civil Engineering  
+Guru Nanak Dev Engineering College, Ludhiana
+
+</p>
