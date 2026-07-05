@@ -1,19 +1,16 @@
-<div align="center">
+<h1 align="center">📚 Course Contents</h1>
 
-# 📚 Course Contents
+<h2 align="center">Microsoft Excel for Civil Engineering Applications</h2>
 
-## Microsoft Excel for Civil Engineering Applications
+<p align="center">
+<b>Four-Day Hands-on Training Programme</b><br>
+Department of Civil Engineering<br>
+Guru Nanak Dev Engineering College, Ludhiana
+</p>
 
-### Four-Day Hands-on Training Programme
-
-**Department of Civil Engineering**  
-**Guru Nanak Dev Engineering College, Ludhiana**
-
-<br>
-
-**🏠 [Home](../README.md)**
-
-</div>
+<p align="center">
+<a href="../README.md"><b>🏠 Home</b></a>
+</p>
 
 ---
 
@@ -38,7 +35,7 @@ Upon successful completion of this training programme, participants will be able
 - ✅ Organize and analyse engineering datasets.
 - ✅ Develop charts and graphical representations.
 - ✅ Prepare professional engineering reports.
-- ✅ Solve real-world and basic civil engineering problems using Microsoft Excel.
+- ✅ Solve real-world and basic Civil Engineering problems using Microsoft Excel.
 
 ---
 
@@ -67,7 +64,7 @@ Upon successful completion of this training programme, participants will be able
 - Cell Formatting
 - Relative & Absolute Cell References
 - AutoFill and AutoSum
-- Basic Functions:
+- Basic Functions
   - SUM()
   - AVERAGE()
   - MAX()
@@ -172,14 +169,12 @@ The following templates are provided to assist students during the practical ses
 
 ---
 
-<div align="center">
+<h3 align="center">🚀 Happy Learning!</h3>
 
-### 🚀 Happy Learning!
+<p align="center">
+<i>"Learning Excel today will save countless hours throughout your engineering career."</i>
+</p>
 
-*"Learning Excel today will save countless hours throughout your engineering career."*
-
-<br>
-
-**⬅️ [Return to Home](../README.md)**
-
-</div>
+<p align="center">
+<a href="../README.md"><b>⬅️ Return to Home</b></a>
+</p>
