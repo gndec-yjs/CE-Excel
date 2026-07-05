@@ -1,26 +1,34 @@
-# Microsoft Excel for Civil Engineering Applications
+<div align="center">
 
-### Four-Day Hands-on Training Programme
+# 📊 Microsoft Excel for Civil Engineering Applications
 
-**Department of Civil Engineering**  
-**Guru Nanak Dev Engineering College, Ludhiana**
+## Four-Day Hands-on Training Programme
 
-| **[Contents](Contents/Contents.md)** | **[Course Schedule](Contents/Schedule.md)** | **[Lecture Notes](Contents/Lectures.md)** | **[Practice Files](Contents/Practice.md)** | **[Assignments](Contents/Assignments.md)** | **[Resources](Contents/Resources.md)** | **[Contact](Contents/Contact.md)** |
+### Department of Civil Engineering  
+### Guru Nanak Dev Engineering College, Ludhiana
+
+<br>
+
+| **📚 [Contents](Contents/Contents.md)** | **📅 [Course Schedule](Contents/Schedule.md)** | **📝 [Lecture Notes](Contents/Lectures.md)** | **💻 [Practice Files](Contents/Practice.md)** |
+|:---:|:---:|:---:|:---:|
+| **📋 [Assignments](Contents/Assignments.md)** | **📖 [Resources](Contents/Resources.md)** | **📞 [Contact](Contents/Contact.md)** | |
+
+</div>
 
 ---
 
-## Course Overview
+# 📖 Course Overview
 
-This four-day hands-on training programme introduces Civil Engineering students to Microsoft Excel and its applications in engineering calculations, data management, visualization, and report preparation.
+This **Four-Day Hands-on Training Programme** is designed to introduce Civil Engineering students to **Microsoft Excel** and its practical applications in engineering calculations, data management, visualization, and report preparation.
 
-The course emphasizes practical learning through real-world examples and engineering-oriented exercises.
+The course emphasizes **learning by doing**, enabling participants to solve real-world engineering problems through hands-on exercises and practical case studies.
 
 ---
 
-## Course Information
+# ℹ️ Course Information
 
-| Particular | Details |
-|-------------|---------|
+| **Particular** | **Details** |
+|:---------------|:------------|
 | **Course Title** | Microsoft Excel for Civil Engineering Applications |
 | **Duration** | 4 Days |
 | **Training Hours** | 4 Hours per Day (16 Hours Total) |
@@ -29,24 +37,38 @@ The course emphasizes practical learning through real-world examples and enginee
 
 ---
 
-## Learning Outcomes
+# 🎯 Learning Outcomes
 
-Upon successful completion of the training, participants will be able to:
+Upon successful completion of this training programme, participants will be able to:
 
-- Create and format professional Excel worksheets.
-- Perform calculations using formulas and functions.
-- Organize and analyse engineering data.
-- Generate charts and graphical reports.
-- Prepare printable engineering reports.
-- Solve basic real-world and civil engineering problems using Microsoft Excel.
+- ✅ Create and format professional Excel worksheets.
+- ✅ Perform calculations using formulas and built-in functions.
+- ✅ Organize, manage, and analyse engineering data efficiently.
+- ✅ Generate charts and graphical reports for data visualization.
+- ✅ Prepare professional and printable engineering reports.
+- ✅ Apply Microsoft Excel to solve real-world and basic civil engineering problems.
+
+---
+
+<div align="center">
+
+# Course Instructors
+
+### **Dr. Yuvraj Singh**  
+*Assistant Professor*  
+
+### **Er. Jashandeep Singh**  
+*Assistant Professor*  
+
+**Department of Civil Engineering**  
+**Guru Nanak Dev Engineering College, Ludhiana**
+
+</div>
 
 ---
 
-### Instructor
+<div align="center">
 
-**Dr. Yuvraj Singh & Er. Jashandeep Singh**  
-Assistant Professor  
-Department of Civil Engineering  
-Guru Nanak Dev Engineering College, Ludhiana
+### 💡 *"Excel is one of the most powerful tools an engineer can master for calculations, analysis, visualization, and decision-making."*
 
----
+</div>
