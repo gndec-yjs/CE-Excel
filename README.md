@@ -9,9 +9,7 @@
 
 <br>
 
-| **📚 [Contents](Contents/Contents.md)** | **📅 [Course Schedule](Contents/Schedule.md)** | **📝 [Lecture Notes](Contents/Lectures.md)** | **💻 [Practice Files](Contents/Practice.md)** |
-|:---:|:---:|:---:|:---:|
-| **📋 [Assignments](Contents/Assignments.md)** | **📖 [Resources](Contents/Resources.md)** | **📞 [Contact](Contents/Contact.md)** | |
+| **📚 [Contents](Contents/Contents.md)** | **📅 [Resources](Contents/Resources.md)** | **📞 [Contact](Contents/Contact.md)** |
 
 </div>
 
