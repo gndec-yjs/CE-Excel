@@ -33,7 +33,19 @@ Upon successful completion of this module, students will be able to:
 
 # 📖 Module Contents
 
-Unlike the previous modules, this session focuses entirely on **hands-on problem solving**. Students will integrate the concepts learned during the previous three days to develop practical Excel worksheets.
+This module is entirely **hands-on**. Students will integrate the concepts learned during the previous three modules to develop practical Excel worksheets.
+
+---
+
+# 🗂 Practice Templates
+
+Download the Excel templates before starting today's practical session.
+
+| Template | Download |
+|:---------|:--------:|
+| 🛒 Shopping Bill Template | **[Download](Templates/Shopping_Bill_Template.xlsx)** |
+| 🎨 Paint Estimation Template | **[Download](Templates/Paint_Estimation_Template.xlsx)** |
+| 📋 Mini Project Template | **[Download](Templates/Mini_Project_Template.xlsx)** |
 
 ---
 
@@ -49,6 +61,10 @@ Each customer purchases multiple items, and the bill should automatically calcul
 - Grand Total
 - GST
 - Final Payable Amount
+
+### 📥 Practice File
+
+➡️ **[Shopping_Bill_Template.xlsx](Templates/Shopping_Bill_Template.xlsx)**
 
 ---
 
@@ -69,7 +85,7 @@ Each customer purchases multiple items, and the bill should automatically calcul
 - Item Cost = Quantity × Rate
 - Grand Total
 - GST @ 5%
-- Final Amount Payable
+- Final Payable Amount
 
 ---
 
@@ -86,14 +102,9 @@ Each customer purchases multiple items, and the bill should automatically calcul
 
 ## Expected Output
 
-| Item | Qty | Rate | Cost |
-|------|----:|-----:|-----:|
-| Rice | 5 | 65 | 325 |
-| Sugar | 2 | 48 | 96 |
-| ... | ... | ... | ... |
+Students should create a professional billing worksheet displaying:
 
-Below the table:
-
+- Item-wise Cost
 - Grand Total
 - GST
 - Final Bill Amount
@@ -114,6 +125,10 @@ Students will prepare an Excel worksheet to calculate:
 - Net paintable area
 - Quantity of paint required
 - Estimated painting cost
+
+### 📥 Practice File
+
+➡️ **[Paint_Estimation_Template.xlsx](Templates/Paint_Estimation_Template.xlsx)**
 
 ---
 
@@ -144,53 +159,15 @@ Additional Information
 
 ## Students Will Calculate
 
-### Step 1
+1. Total Wall Area
 
-Total Wall Area
+2. Total Area of Doors & Windows
 
-```
-2 × (Length + Width) × Height
-```
+3. Net Paintable Area
 
----
+4. Paint Required
 
-### Step 2
-
-Total Area of Openings
-
-```
-Door Area + Window Areas
-```
-
----
-
-### Step 3
-
-Net Paintable Area
-
-```
-Wall Area − Opening Area
-```
-
----
-
-### Step 4
-
-Paint Required
-
-```
-Net Area ÷ Paint Coverage
-```
-
----
-
-### Step 5
-
-Painting Cost
-
-```
-Paint Required × Cost per Litre
-```
+5. Estimated Painting Cost
 
 ---
 
@@ -208,25 +185,12 @@ Paint Required × Cost per Litre
 
 ## Expected Output
 
-Students should prepare a neat worksheet displaying:
+Students should prepare a professional worksheet displaying:
 
 - Input Data
 - Calculated Areas
-- Paint Quantity
+- Paint Quantity Required
 - Estimated Cost
-
----
-
-# 🌟 Challenge Activity (Optional)
-
-Students may enhance either worksheet by adding:
-
-- Professional formatting
-- Conditional Formatting
-- Company logo
-- Borders and colours
-- Print-ready layout
-- Header and Footer
 
 ---
 
@@ -234,33 +198,19 @@ Students may enhance either worksheet by adding:
 
 Each student (or group) shall develop **one complete Excel workbook** based on any one of the following applications.
 
-### Option 1
+### 📥 Project Template
 
-Student Result Management System
-
----
-
-### Option 2
-
-Attendance Management System
+➡️ **[Mini_Project_Template.xlsx](Templates/Mini_Project_Template.xlsx)**
 
 ---
 
-### Option 3
+## Choose Any One Project
 
-Construction Material Inventory
-
----
-
-### Option 4
-
-Automated Shopping Bill
-
----
-
-### Option 5
-
-Paint Requirement Calculator
+- Student Result Management System
+- Attendance Management System
+- Construction Material Inventory
+- Automated Shopping Bill
+- Paint Requirement Calculator
 
 ---
 
@@ -268,18 +218,19 @@ Paint Requirement Calculator
 
 The workbook should demonstrate:
 
-- Proper formatting
+- Proper worksheet formatting
 - Correct formulas
-- Appropriate functions
+- Appropriate Excel functions
 - Logical calculations
 - Professional presentation
 
 Students should also ensure that:
 
-- Worksheets are clearly labelled.
+- Worksheets are properly named.
+- Units are clearly specified.
+- Tables are neatly formatted.
 - Appropriate headings are used.
-- Units are specified wherever applicable.
-- The workbook is print-ready.
+- Workbook is ready for printing.
 
 ---
 
@@ -297,27 +248,26 @@ Students should also ensure that:
 
 ---
 
-# 💡 Best Practices While Using Excel
+# 💡 Best Practices
 
-- Always use meaningful headings.
-- Avoid hardcoding values inside formulas.
-- Use cell references wherever possible.
+- Use meaningful headings.
+- Avoid typing numbers directly inside formulas.
+- Always use cell references.
 - Check formulas before copying.
 - Maintain consistent units.
 - Save your work regularly.
 - Keep worksheets neat and organized.
-- Use colours only where necessary.
 - Prepare print-friendly worksheets.
 
 ---
 
 # 📝 Final Submission
 
-Each student should submit:
+Students should submit the following:
 
-✅ Shopping Bill Worksheet
+✅ Completed Shopping Bill Worksheet
 
-✅ Paint Requirement Calculator
+✅ Completed Paint Estimation Worksheet
 
 ✅ One Mini Project Workbook
 
@@ -325,11 +275,11 @@ Each student should submit:
 
 # 📚 Summary
 
-By the end of this module, students have successfully applied Microsoft Excel to solve both everyday and engineering-related problems.
+During this module, students applied Microsoft Excel to solve practical real-life and basic engineering problems.
 
-The exercises completed during this session demonstrate how spreadsheets can automate calculations, improve accuracy, reduce manual effort, and assist engineers in making informed decisions.
+By integrating formulas, functions, formatting, and logical thinking, participants learned how Excel can automate calculations, improve accuracy, reduce manual effort, and support engineering decision-making.
 
-This marks the completion of the **Microsoft Excel for Civil Engineering Applications** training programme.
+This concludes the **Microsoft Excel for Civil Engineering Applications** training programme.
 
 ---
 
@@ -343,7 +293,7 @@ You have successfully completed the
 
 ### Four-Day Hands-on Training Programme
 
-We hope the knowledge and skills gained during this programme will assist you throughout your engineering studies and future professional career.
+We wish you success in applying these Excel skills throughout your engineering studies and professional career.
 
 <br>
 
