@@ -103,7 +103,6 @@ After successful completion of this programme, participants will be able to:
 <a href="Contents/Templates/Shopping_Bill_Template.xlsx">
 <img src="https://img.shields.io/badge/Download-Practice%20Templates-purple?style=for-the-badge" alt="Practice Templates">
 </a>
-
 </p>
 
 ---
