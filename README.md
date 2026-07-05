@@ -1,4 +1,3 @@
-<p align="center">
 <h1 align="center">Microsoft Excel for Civil Engineering Applications</h1>
 
 <p align="center">
@@ -8,18 +7,16 @@ Guru Nanak Dev Engineering College, Ludhiana
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Duration-4%20Days-success?style=flat-square">
-<img src="https://img.shields.io/badge/Training-16%20Hours-blue?style=flat-square">
-<img src="https://img.shields.io/badge/Mode-Hands--on-orange?style=flat-square">
-<img src="https://img.shields.io/badge/Software-Microsoft%20Excel-217346?style=flat-square">
+<img src="https://img.shields.io/badge/Duration-4%20Days-success?style=flat-square" alt="Duration">
+<img src="https://img.shields.io/badge/Training-16%20Hours-blue?style=flat-square" alt="Training Hours">
+<img src="https://img.shields.io/badge/Mode-Hands--on-orange?style=flat-square" alt="Mode">
+<img src="https://img.shields.io/badge/Software-Microsoft%20Excel-217346?style=flat-square" alt="Software">
 </p>
 
 <p align="center">
-
 <a href="Contents/Contents.md"><b>Contents</b></a> •
 <a href="Contents/Resources.md"><b>Resources</b></a> •
 <a href="Contents/Contact.md"><b>Contact</b></a>
-
 </p>
 
 ---
@@ -83,26 +80,28 @@ After successful completion of this programme, participants will be able to:
 
 ## Quick Links
 
+<p align="center">
+
 <a href="Contents/Contents.md">
-<img src="https://img.shields.io/badge/View-Course%20Contents-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/View-Course%20Contents-blue?style=for-the-badge" alt="Contents">
 </a>
 
 &nbsp;
 
 <a href="Contents/Templates/Excel_Training_Report_Template.docx">
-<img src="https://img.shields.io/badge/Download-Training%20Report%20Template-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Download-Training%20Report%20Template-green?style=for-the-badge" alt="Training Report">
 </a>
 
 &nbsp;
 
 <a href="Contents/Templates/Mini_Project_Template.xlsx">
-<img src="https://img.shields.io/badge/Download-Mini%20Project%20Template-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Download-Mini%20Project%20Template-orange?style=for-the-badge" alt="Mini Project">
 </a>
 
 &nbsp;
 
 <a href="Contents/Templates/Shopping_Bill_Template.xlsx">
-<img src="https://img.shields.io/badge/Download-Practice%20Templates-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/Download-Practice%20Templates-purple?style=for-the-badge" alt="Practice Templates">
 </a>
 
 </p>
@@ -118,7 +117,7 @@ Assistant Professor
 Department of Civil Engineering  
 Guru Nanak Dev Engineering College, Ludhiana
 
-<br>
+<br><br>
 
 **Er. Jashandeep Singh**  
 Department of Civil Engineering  
@@ -131,27 +130,23 @@ Guru Nanak Dev Engineering College, Ludhiana
 ## Contact
 
 <p align="center">
-
-Department of Civil Engineering  
+Department of Civil Engineering<br>
 Guru Nanak Dev Engineering College, Ludhiana
-
 </p>
 
 ---
 
 <p align="center">
-
 <b>Microsoft Excel is one of the most valuable tools for every Civil Engineer.</b>
+</p>
 
+<p align="center">
 <i>Learn today. Apply throughout your academic and professional career.</i>
-
 </p>
 
 ---
 
 <p align="center">
-
-© Department of Civil Engineering  
+© Department of Civil Engineering<br>
 Guru Nanak Dev Engineering College, Ludhiana
-
 </p>
