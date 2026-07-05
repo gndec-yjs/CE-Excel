@@ -1,21 +1,22 @@
-<div align="center">
+<h1 align="center">📘 Module 1</h1>
 
-# 📘 Module 1
+<h2 align="center">Excel Fundamentals & Basic Calculations</h2>
 
-# Excel Fundamentals & Basic Calculations
+<p align="center">
+<b>Day 1 | Duration: 4 Hours</b>
+</p>
 
-### **Day 1 | Duration: 4 Hours**
-
-**Microsoft Excel for Civil Engineering Applications**
-
-Department of Civil Engineering  
+<p align="center">
+<b>Microsoft Excel for Civil Engineering Applications</b><br>
+Department of Civil Engineering<br>
 Guru Nanak Dev Engineering College, Ludhiana
+</p>
 
-<br>
-
-**🏠 [Home](../README.md) | 📚 [Contents](Contents.md) | ⏭️ [Next Module](Module2.md)**
-
-</div>
+<p align="center">
+<a href="../README.md"><b>🏠 Home</b></a> |
+<a href="Contents.md"><b>📚 Contents</b></a> |
+<a href="Module2.md"><b>⏭️ Next Module</b></a>
+</p>
 
 ---
 
@@ -92,9 +93,9 @@ Students will become familiar with:
 
 A workbook is an Excel file that contains one or more worksheets.
 
-Example:
+Example
 
-```
+```text
 Student_Record.xlsx
 ```
 
@@ -104,9 +105,9 @@ Student_Record.xlsx
 
 A worksheet is an individual spreadsheet inside a workbook.
 
-Example:
+Example
 
-```
+```text
 Sheet1
 Sheet2
 Sheet3
@@ -121,7 +122,7 @@ Every cell has a unique address.
 Examples
 
 | Cell | Address |
-|-------|----------|
+|-------|---------|
 | Column A Row 1 | A1 |
 | Column B Row 5 | B5 |
 | Column D Row 10 | D10 |
@@ -142,7 +143,7 @@ Types of data:
 Example
 
 | Name | Marks | Attendance |
-|------|-------:|-----------:|
+|------|------:|-----------:|
 | Aman | 82 | 95% |
 | Rahul | 75 | 88% |
 | Simran | 91 | 98% |
@@ -170,7 +171,7 @@ Students will learn to apply:
 
 Every formula begins with
 
-```
+```text
 =
 ```
 
@@ -178,25 +179,25 @@ Examples
 
 Addition
 
-```
+```text
 =A2+B2
 ```
 
 Subtraction
 
-```
+```text
 =A2-B2
 ```
 
 Multiplication
 
-```
+```text
 =A2*B2
 ```
 
 Division
 
-```
+```text
 =A2/B2
 ```
 
@@ -206,7 +207,7 @@ Division
 
 ## Relative Reference
 
-```
+```text
 =A2+B2
 ```
 
@@ -216,7 +217,7 @@ Changes automatically when copied.
 
 ## Absolute Reference
 
-```
+```text
 =$A$2
 ```
 
@@ -232,7 +233,7 @@ Adds values together.
 
 Example
 
-```
+```text
 =SUM(B2:B10)
 ```
 
@@ -244,7 +245,7 @@ Calculates average.
 
 Example
 
-```
+```text
 =AVERAGE(B2:B10)
 ```
 
@@ -256,7 +257,7 @@ Returns largest value.
 
 Example
 
-```
+```text
 =MAX(B2:B10)
 ```
 
@@ -268,7 +269,7 @@ Returns smallest value.
 
 Example
 
-```
+```text
 =MIN(B2:B10)
 ```
 
@@ -280,7 +281,7 @@ Counts numerical entries.
 
 Example
 
-```
+```text
 =COUNT(B2:B10)
 ```
 
@@ -292,7 +293,7 @@ Rounds a number.
 
 Example
 
-```
+```text
 =ROUND(B2,2)
 ```
 
@@ -335,7 +336,7 @@ Use formulas to calculate the compressive strength.
 
 Prepare a worksheet containing marks of five students.
 
-Calculate
+Calculate:
 
 - Total Marks
 - Average Marks
@@ -391,10 +392,10 @@ In this module, you learned:
 
 ---
 
-<div align="center">
+<h3 align="center">✅ End of Module 1</h3>
 
-### ✅ End of Module 1
-
-**⬅️ [Contents](Contents.md) &nbsp;&nbsp;|&nbsp;&nbsp; 🏠 [Home](../README.md) &nbsp;&nbsp;|&nbsp;&nbsp; ⏭️ [Module 2](Module2.md)**
-
-</div>
+<p align="center">
+<a href="Contents.md"><b>📚 Contents</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="../README.md"><b>🏠 Home</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="Module2.md"><b>⏭️ Module 2</b></a>
+</p>
