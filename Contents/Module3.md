@@ -1,21 +1,23 @@
-<div align="center">
+<h1 align="center">📙 Module 3</h1>
 
-# 📙 Module 3
+<h2 align="center">Charts, Data Analysis & Report Preparation</h2>
 
-# Charts, Data Analysis & Report Preparation
+<p align="center">
+<b>Day 3 | Duration: 4 Hours</b>
+</p>
 
-### **Day 3 | Duration: 4 Hours**
-
-**Microsoft Excel for Civil Engineering Applications**
-
-Department of Civil Engineering  
+<p align="center">
+<b>Microsoft Excel for Civil Engineering Applications</b><br>
+Department of Civil Engineering<br>
 Guru Nanak Dev Engineering College, Ludhiana
+</p>
 
-<br>
-
-**🏠 [Home](../README.md) | 📚 [Contents](Contents.md) | ⬅️ [Module 2](Module2.md) | ⏭️ [Module 4](Module4.md)**
-
-</div>
+<p align="center">
+<a href="../README.md"><b>🏠 Home</b></a> |
+<a href="Contents.md"><b>📚 Contents</b></a> |
+<a href="Module2.md"><b>⬅️ Module 2</b></a> |
+<a href="Module4.md"><b>⏭️ Module 4</b></a>
+</p>
 
 ---
 
@@ -410,10 +412,14 @@ These tools enable engineers to transform raw data into meaningful information a
 
 ---
 
-<div align="center">
+<h3 align="center">🎓 End of Module 3</h3>
 
-## 🎓 End of Module 3
-
-**⬅️ [Module 2](Module2.md) &nbsp;&nbsp;|&nbsp;&nbsp; 📚 [Contents](Contents.md) &nbsp;&nbsp;|&nbsp;&nbsp; 🏠 [Home](../README.md) &nbsp;&nbsp;|&nbsp;&nbsp; ⏭️ [Module 4](Module4.md)**
-
-</div>
+<p align="center">
+<a href="Module2.md"><b>⬅️ Module 2</b></a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="Contents.md"><b>📚 Contents</b></a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="../README.md"><b>🏠 Home</b></a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="Module4.md"><b>⏭️ Module 4</b></a>
+</p>
