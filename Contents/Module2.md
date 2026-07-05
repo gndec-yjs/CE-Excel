@@ -1,21 +1,23 @@
-<div align="center">
+<h1 align="center">📗 Module 2</h1>
 
-# 📗 Module 2
+<h2 align="center">Data Management & Logical Functions</h2>
 
-# Data Management & Logical Functions
+<p align="center">
+<b>Day 2 | Duration: 4 Hours</b>
+</p>
 
-### **Day 2 | Duration: 4 Hours**
-
-**Microsoft Excel for Civil Engineering Applications**
-
-Department of Civil Engineering  
+<p align="center">
+<b>Microsoft Excel for Civil Engineering Applications</b><br>
+Department of Civil Engineering<br>
 Guru Nanak Dev Engineering College, Ludhiana
+</p>
 
-<br>
-
-**🏠 [Home](../README.md) | 📚 [Contents](Contents.md) | ⬅️ [Module 1](Module1.md) | ⏭️ [Module 3](Module3.md)**
-
-</div>
+<p align="center">
+<a href="../README.md"><b>🏠 Home</b></a> |
+<a href="Contents.md"><b>📚 Contents</b></a> |
+<a href="Module1.md"><b>⬅️ Module 1</b></a> |
+<a href="Module3.md"><b>⏭️ Module 3</b></a>
+</p>
 
 ---
 
@@ -434,10 +436,14 @@ These tools significantly improve efficiency by automating calculations, reducin
 
 ---
 
-<div align="center">
+<h3 align="center">✅ End of Module 2</h3>
 
-## ✅ End of Module 2
-
-**⬅️ [Module 1](Module1.md) &nbsp;&nbsp;|&nbsp;&nbsp; 📚 [Contents](Contents.md) &nbsp;&nbsp;|&nbsp;&nbsp; 🏠 [Home](../README.md) &nbsp;&nbsp;|&nbsp;&nbsp; ⏭️ [Module 3](Module3.md)**
-
-</div>
+<p align="center">
+<a href="Module1.md"><b>⬅️ Module 1</b></a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="Contents.md"><b>📚 Contents</b></a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="../README.md"><b>🏠 Home</b></a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="Module3.md"><b>⏭️ Module 3</b></a>
+</p>
