@@ -1,21 +1,24 @@
-<div align="center">
+<p align="center">
 
-# 📕 Module 4
+<h1>📕 Module 4</h1>
 
-# Practical Problem Solving Using Microsoft Excel
+<h2>Practical Problem Solving Using Microsoft Excel</h2>
 
-### **Day 4 | Duration: 4 Hours**
+<b>Day 4 | Duration: 4 Hours</b><br><br>
 
-**Microsoft Excel for Civil Engineering Applications**
-
-Department of Civil Engineering  
+<b>Microsoft Excel for Civil Engineering Applications</b><br>
+Department of Civil Engineering<br>
 Guru Nanak Dev Engineering College, Ludhiana
 
-<br>
+</p>
 
-**🏠 [Home](../README.md) | 📚 [Contents](Contents.md) | ⬅️ [Module 3](Module3.md)**
+<p align="center">
 
-</div>
+<a href="../README.md"><b>🏠 Home</b></a> •
+<a href="Contents.md"><b>📚 Contents</b></a> •
+<a href="Module3.md"><b>⬅️ Module 3</b></a>
+
+</p>
 
 ---
 
@@ -49,7 +52,7 @@ Download the Excel templates before starting today's practical session.
 
 ---
 
-# Exercise 1 – Automated Shopping Bill
+# 🛒 Exercise 1 – Automated Shopping Bill
 
 ## Problem Statement
 
@@ -64,7 +67,7 @@ Each customer purchases multiple items, and the bill should automatically calcul
 
 ### 📥 Practice File
 
-➡️ **[Shopping_Bill_Template.xlsx](Templates/Shopping_Bill_Template.xlsx)**
+**[📄 Shopping_Bill_Template.xlsx](Templates/Shopping_Bill_Template.xlsx)**
 
 ---
 
@@ -111,7 +114,7 @@ Students should create a professional billing worksheet displaying:
 
 ---
 
-# Exercise 2 – Paint Requirement Calculator
+# 🎨 Exercise 2 – Paint Requirement Calculator
 
 ## Problem Statement
 
@@ -119,16 +122,16 @@ A contractor wishes to estimate the amount of paint required for a room.
 
 Students will prepare an Excel worksheet to calculate:
 
-- Total wall area
-- Area of doors
-- Area of windows
-- Net paintable area
-- Quantity of paint required
-- Estimated painting cost
+- Total Wall Area
+- Area of Doors
+- Area of Windows
+- Net Paintable Area
+- Quantity of Paint Required
+- Estimated Painting Cost
 
 ### 📥 Practice File
 
-➡️ **[Paint_Estimation_Template.xlsx](Templates/Paint_Estimation_Template.xlsx)**
+**[📄 Paint_Estimation_Template.xlsx](Templates/Paint_Estimation_Template.xlsx)**
 
 ---
 
@@ -150,7 +153,7 @@ Students will prepare an Excel worksheet to calculate:
 | Window 1 | 1.5 m × 1.2 m |
 | Window 2 | 1.5 m × 1.2 m |
 
-Additional Information
+### Additional Information
 
 - Paint Coverage = **10 m²/Litre**
 - Paint Cost = **₹350/Litre**
@@ -160,13 +163,9 @@ Additional Information
 ## Students Will Calculate
 
 1. Total Wall Area
-
 2. Total Area of Doors & Windows
-
 3. Net Paintable Area
-
 4. Paint Required
-
 5. Estimated Painting Cost
 
 ---
@@ -200,7 +199,7 @@ Each student (or group) shall develop **one complete Excel workbook** based on a
 
 ### 📥 Project Template
 
-➡️ **[Mini_Project_Template.xlsx](Templates/Mini_Project_Template.xlsx)**
+**[📄 Mini_Project_Template.xlsx](Templates/Mini_Project_Template.xlsx)**
 
 ---
 
@@ -263,13 +262,11 @@ Students should also ensure that:
 
 # 📝 Final Submission
 
-Students should submit the following:
+Students should submit:
 
-✅ Completed Shopping Bill Worksheet
-
-✅ Completed Paint Estimation Worksheet
-
-✅ One Mini Project Workbook
+- ✅ Completed Shopping Bill Worksheet
+- ✅ Completed Paint Estimation Worksheet
+- ✅ One Mini Project Workbook
 
 ---
 
@@ -283,20 +280,24 @@ This concludes the **Microsoft Excel for Civil Engineering Applications** traini
 
 ---
 
-<div align="center">
+<p align="center">
 
-# 🎓 Congratulations!
+<h2>🎓 Congratulations!</h2>
 
-You have successfully completed the
+<b>You have successfully completed the</b><br><br>
 
-## **Microsoft Excel for Civil Engineering Applications**
+<h3>Microsoft Excel for Civil Engineering Applications</h3>
 
-### Four-Day Hands-on Training Programme
+<b>Four-Day Hands-on Training Programme</b>
+
+<br><br>
 
 We wish you success in applying these Excel skills throughout your engineering studies and professional career.
 
-<br>
+<br><br>
 
-**⬅️ [Module 3](Module3.md) &nbsp;&nbsp;|&nbsp;&nbsp; 📚 [Contents](Contents.md) &nbsp;&nbsp;|&nbsp;&nbsp; 🏠 [Home](../README.md)**
+<a href="Module3.md"><b>⬅️ Module 3</b></a> •
+<a href="Contents.md"><b>📚 Contents</b></a> •
+<a href="../README.md"><b>🏠 Home</b></a>
 
-</div>
+</p>
