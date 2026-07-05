@@ -21,6 +21,8 @@ Guru Nanak Dev Engineering College, Ludhiana
 
 </p>
 
+---
+
 ## About the Training
 
 The **Microsoft Excel for Civil Engineering Applications** programme is a four-day hands-on training designed for **B.Tech. Civil Engineering students entering the second year**.
