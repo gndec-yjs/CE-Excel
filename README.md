@@ -108,34 +108,6 @@ After successful completion of this programme, participants will be able to:
 
 ---
 
-## Course Instructors
-
-<p align="center">
-
-**Dr. Yuvraj Singh**  
-Assistant Professor  
-Department of Civil Engineering  
-Guru Nanak Dev Engineering College, Ludhiana
-
-<br><br>
-
-**Er. Jashandeep Singh**  
-Department of Civil Engineering  
-Guru Nanak Dev Engineering College, Ludhiana
-
-</p>
-
----
-
-## Contact
-
-<p align="center">
-Department of Civil Engineering<br>
-Guru Nanak Dev Engineering College, Ludhiana
-</p>
-
----
-
 <p align="center">
 <b>Microsoft Excel is one of the most valuable tools for every Civil Engineer.</b>
 </p>
