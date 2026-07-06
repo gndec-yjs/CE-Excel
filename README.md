@@ -13,15 +13,8 @@ Guru Nanak Dev Engineering College, Ludhiana
 <img src="https://img.shields.io/badge/Software-Microsoft%20Excel-217346?style=flat-square" alt="Software">
 </p>
 
-<p align="center">
+| **[📚 Contents](Contents/Contents.md)** | **[📂 Resources](Contents/Resources.md)** | **[📞 Contact](Contents/Contact.md)** |
 
-**[📚 Contents](Contents/Contents.md)** •
-**[📂 Resources](Contents/Resources.md)** •
-**[📞 Contact](Contents/Contact.md)**
-
-</p>
-
----
 
 ## About the Training
 
