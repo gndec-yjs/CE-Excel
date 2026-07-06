@@ -1,3 +1,15 @@
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+    
+<script type="text/javascript"
+        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 <h1 align="center">Microsoft Excel for Civil Engineering Applications</h1>
 
 <p align="center">
@@ -15,9 +27,9 @@ Guru Nanak Dev Engineering College, Ludhiana
 
 <p align="center">
 
-**[📚 Contents](Contents/Contents.html)** •
-**[📂 Resources](Contents/Resources.html)** •
-**[📞 Contact](Contents/Contact.html)**
+**[📚 Contents](Contents/Contents.md)** •
+**[📂 Resources](Contents/Resources.md)** •
+**[📞 Contact](Contents/Contact.md)**
 
 </p>
 
